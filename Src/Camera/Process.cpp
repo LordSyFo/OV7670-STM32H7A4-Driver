@@ -2,7 +2,7 @@
  * Process.cpp
  *
  *  Created on: 27 Oct 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #include <Camera/Process.h>

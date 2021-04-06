@@ -2,7 +2,7 @@
  * Events.cpp
  *
  *  Created on: Oct 25, 2020
- *      Author: hejmi
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 #include <Thread/Events/Events.hpp>
 

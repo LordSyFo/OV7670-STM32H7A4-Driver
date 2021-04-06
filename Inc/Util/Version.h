@@ -2,7 +2,7 @@
  * Version.h
  *
  *  Created on: 12 Oct 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_UTIL_VERSION_H_

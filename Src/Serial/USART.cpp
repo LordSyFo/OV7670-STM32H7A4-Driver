@@ -2,7 +2,7 @@
  * USART.cpp
  *
  *  Created on: 17 Sep 2020
- *      Author: hejmi
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #include <Serial/USART.h>

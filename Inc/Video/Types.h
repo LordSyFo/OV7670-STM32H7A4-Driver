@@ -2,7 +2,7 @@
  * Types.h
  *
  *  Created on: 13 Nov 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_VIDEO_TYPES_H_

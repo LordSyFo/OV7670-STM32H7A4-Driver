@@ -2,7 +2,7 @@
  * Controller.h
  *
  *  Created on: 12 Nov 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_VIDEO_CONTROLLER_H_

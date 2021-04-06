@@ -2,7 +2,7 @@
  * AGMethods.h
  *
  *  Created on: Sep 30, 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef SRC_AUTOGENMETHODS_H_

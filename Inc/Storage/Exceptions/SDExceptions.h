@@ -2,7 +2,7 @@
  * SDExceptions.h
  *
  *  Created on: 3 Nov 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #include <Util/BaseException.h>

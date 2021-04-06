@@ -2,7 +2,7 @@
  * Thread.hpp
  *
  *  Created on: Oct 28, 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_THREAD_THREAD_HPP_

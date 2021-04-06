@@ -2,7 +2,7 @@
  * USART.h
  *
  *  Created on: 17 Sep 2020
- *      Author: hejmi
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_SERIAL_USART_H_

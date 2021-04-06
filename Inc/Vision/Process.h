@@ -2,7 +2,7 @@
  * Process.h
  *
  *  Created on: Nov 9, 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_VISION_PROCESS_H_

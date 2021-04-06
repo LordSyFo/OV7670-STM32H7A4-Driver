@@ -2,7 +2,7 @@
  * Process.h
  *
  *  Created on: 27 Oct 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_CAMERA_PROCESS_H_

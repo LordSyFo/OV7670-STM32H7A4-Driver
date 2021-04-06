@@ -2,7 +2,7 @@
  * JPEGCompressor.h
  *
  *  Created on: 6 Nov 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_COMPRESSION_JPEG_H_

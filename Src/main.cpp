@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Sep 15, 2020
- *      Author: SYFO
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #include "main.h"

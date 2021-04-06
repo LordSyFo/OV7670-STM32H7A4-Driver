@@ -2,7 +2,7 @@
  * Events.hpp
  *
  *  Created on: Oct 25, 2020
- *      Author: hejmi
+ *      Author: Nicklas Grunert (@github.com/LordSyFo)
  */
 
 #ifndef INC_EVENTS_EVENTS_HPP_
